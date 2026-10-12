@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-UC Berkeley<br>
-## Data Science + Economics Major
+Data Science + Economics @ UC Berkeley<br>
 <br>Interested in Data Science, Software Engineering, Product Management, Project Management<br>Prior Experience includes Software Engineer for LG Nova and Machine Learning Researcher at MatX<br>
 
 
