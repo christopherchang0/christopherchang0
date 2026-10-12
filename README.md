@@ -1,4 +1,3 @@
-## Christopher Chang
 
 <!--
 **christopherchang0/christopherchang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-UC Berkeley<br>Data Science + Economics Major<br>Interested in Data Science, Software Engineering, Product Management, Project Management<br>Prior Experience includes Software Engineer for LG Nova and Machine Learning Researcher at MatX<br><br>Proficiency: Python, PostgreSQL, Docker, Pandas, NumPy, Scikit-learn, Java
+UC Berkeley<br>
+## Data Science + Economics Major
+<br>Interested in Data Science, Software Engineering, Product Management, Project Management<br>Prior Experience includes Software Engineer for LG Nova and Machine Learning Researcher at MatX<br>
 
 
 ## 🌐 Socials:
